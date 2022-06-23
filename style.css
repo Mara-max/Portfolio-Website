@@ -150,7 +150,7 @@ section {
     min-height: 100vh;
     display: flex;
     align-items: center;
-    background: linear-gradient(rgba(34, 34, 34, 0.795), rgba(34, 34, 34, 0.829)), url(../assets/images/cover2.jpg);
+    background: linear-gradient(rgba(34, 34, 34, 0.795), rgba(34, 34, 34, 0.829)), url(cover2.jpg);
     background-size: cover;
     background-position: center;
     margin-bottom: 2rem;
